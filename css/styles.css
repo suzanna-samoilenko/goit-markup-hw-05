@@ -733,14 +733,8 @@ button {
 
 .input-check:checked + .label-check > .check-mark {
   background-color: #404bbf;
-}
-
-.input-check:checked + .label-check > .check-mark {
-  fill: #f4f4fd;
-}
-
-.input-check:checked + .label-check > .check-mark {
   border: none;
+  fill: #f4f4fd;
 }
 
 .modal-button {
