@@ -601,13 +601,6 @@ button {
   border: none;
 }
 
-.modal-button:focus,
-.modal-button:hover,
-.footer-btn:hover,
-.footer-btn:focus {
-  background-color: #404bbf;
-}
-
 .modal-btn-close:hover .icon-close {
   fill: #fff;
 }
@@ -761,4 +754,9 @@ button {
   display: block;
   margin: 0 auto;
   cursor: pointer;
+}
+
+.modal-button:hover,
+.footer-btn:hover {
+  background-color: #404bbf;
 }
