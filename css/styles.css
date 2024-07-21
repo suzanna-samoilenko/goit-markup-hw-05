@@ -551,7 +551,7 @@ button {
 .backdrop.is-open {
   opacity: 1;
   visibility: visible;
-  pointer-events: avto;
+  pointer-events: auto;
 }
 
 .modal {
